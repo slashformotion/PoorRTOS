@@ -1,0 +1,44 @@
+board/board.o board/board.d: ../board/board.c \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_common.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/fsl_device_registers.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/LPC55S69_cm33_core0.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/core_cm33.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/cmsis_version.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/cmsis_compiler.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/cmsis_gcc.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/mpu_armv8.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/system_LPC55S69_cm33_core0.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/LPC55S69_cm33_core0_features.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_clock.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_common.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_reset.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/utilities/fsl_debug_console.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/component/serial_manager/fsl_component_serial_manager.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/component/serial_manager/fsl_component_serial_port_uart.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/component/uart/fsl_adapter_uart.h \
+ ../board/board.h ../board/clock_config.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_reset.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_gpio.h \
+ /home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_iocon.h
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_common.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/fsl_device_registers.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/LPC55S69_cm33_core0.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/core_cm33.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/cmsis_version.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/cmsis_compiler.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/cmsis_gcc.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/CMSIS/mpu_armv8.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/system_LPC55S69_cm33_core0.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/device/LPC55S69_cm33_core0_features.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_clock.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_common.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_reset.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/utilities/fsl_debug_console.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/component/serial_manager/fsl_component_serial_manager.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/component/serial_manager/fsl_component_serial_port_uart.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/component/uart/fsl_adapter_uart.h:
+../board/board.h:
+../board/clock_config.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_reset.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_gpio.h:
+/home/slash/Documents/SCO/EXPRESSO/LPC55S69_OSreal.src/drivers/fsl_iocon.h:

@@ -1,0 +1,10 @@
+/opt/mcuxpresso-ide/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.5.0.202107051138/tools/arm-none-eabi/include/string.h:84:8:strdup	24	static
+../device/vfs.c:25:7:dirname	32	static
+../device/vfs.c:47:7:basename	24	static
+../device/vfs.c:76:16:dev_lookup	32	static
+../device/vfs.c:120:5:open	40	static
+../device/vfs.c:159:5:close	16	static
+../device/vfs.c:171:5:read	24	static
+../device/vfs.c:181:5:write	24	static
+../device/vfs.c:192:5:ioctl	24	static
+../device/vfs.c:202:5:lseek	16	static
